@@ -10,10 +10,10 @@ The project utilizes a sample dataset in CSV format and demonstrates advanced SQ
 
 Repository Structure
 
-File/Folder    Description
-data.csv    Raw data file used as the input for the project ( https://www.kaggle.com/datasets/swaptr/layoffs-2022).
-data_cleaning.sql    SQL script for cleaning and preprocessing the data.
-eda.sql    SQL script for performing exploratory data analysis on the cleaned dataset.
+File/Folder             Description
+data.csv                Raw data file used as the input for the project ( https://www.kaggle.com/datasets/swaptr/layoffs-2022).
+data_cleaning.sql       SQL script for cleaning and preprocessing the data.
+eda.sql                 SQL script for performing exploratory data analysis on the cleaned dataset.
 
 Project Objectives
 
