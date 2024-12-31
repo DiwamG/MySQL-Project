@@ -24,3 +24,10 @@ The data_cleaning.sql script focuses on:
    2. standardize data and fix errors
    3. Look at null values and see what 
    4. remove any columns and rows that are not necessary
+
+2. EDA
+
+The EDA.sql script focuses on:
+   1. Summary statistics (e.g., averages, counts).
+   2. Identifying trends and outliers.
+   3. Grouping and aggregation queries.
